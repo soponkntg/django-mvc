@@ -1,6 +1,11 @@
-install requirement /n
-`pip install -r requirements.txt` /n
-/n
-run server /n
-`cd learning_log` /n
-`python3 manage.py runserver` /n
+## First mvc Django webapp
+
+install requirement
+`pip install -r requirements.txt`
+ 
+run server
+
+```
+cd learning_log
+python3 manage.py runserver
+```
